@@ -22,3 +22,6 @@ yarn-error.log
 *.sql
 *.rar
 *.zip
+
+# Folder Laporan (tidak perlu di-upload ke GitHub)
+/Laporan/
